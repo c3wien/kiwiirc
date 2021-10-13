@@ -25,5 +25,6 @@
     "plugins": [
         { "name": "customise", "url": "static/plugins/customise.html" }
     ],
-    "showSendButton": true
+    "showSendButton": true,
+    "warnOnExit": false
 }
