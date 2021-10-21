@@ -22,6 +22,9 @@
     "embedly": {
         "key": ""
     },
+    "buffers": {
+        "mute_sound": true
+    },
     "plugins": [
         { "name": "customise", "url": "static/plugins/customise.html" }
     ],
