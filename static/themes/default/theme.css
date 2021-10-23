@@ -98,9 +98,15 @@
 
 .kiwi-container-toggledraw-statebrowser,
 .kiwi-welcome-simple-input-container,
-.kiwi-startup-common-section kiwi-startup-common-section-info,
+.kiwi-startup-common-section,
+.kiwi-startup-common-section-info,
 .kiwi-awaystatusindicator,
 .kiwi-controlinput-user,
-.kiwi-controlinput-tools {
+.kiwi-controlinput-tools,
+.kiwi-statebrowser {
     display: none;
+}
+
+.kiwi-workspace {
+    margin-left: 0;
 }
