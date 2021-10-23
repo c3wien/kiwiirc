@@ -90,3 +90,17 @@
 .kiwi-statebrowser {
     box-shadow: 0px 0 2px #101010;
 }
+
+.kiwi-header-name-container,
+.kiwi-controlinput-form {
+    padding-left: 8px;
+}
+
+.kiwi-container-toggledraw-statebrowser,
+.kiwi-welcome-simple-input-container,
+.kiwi-startup-common-section kiwi-startup-common-section-info,
+.kiwi-awaystatusindicator,
+.kiwi-controlinput-user,
+.kiwi-controlinput-tools {
+    display: none;
+}
